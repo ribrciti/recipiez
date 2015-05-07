@@ -13,6 +13,9 @@ gem 'haml', '~> 4.0.6'
 gem 'simple_form', '~> 3.1.0'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'paperclip', '~> 4.2.1'
+gem 'cocoon', '~> 1.2.6'
+gem 'devise', '~> 3.4.1'
+gem 'spring',        group: :development
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
